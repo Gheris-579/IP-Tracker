@@ -10,3 +10,12 @@ IP-Tracker is used to track an ip address. IP-Tracker is developed for Linux bas
 
 ![ip](https://user-images.githubusercontent.com/103877241/212124173-3165824a-e25e-4f56-b6c8-ae0aa8433242.png)
 
+<h2>How to install</h2>
+
+```
+git clone https://github.com/Gheris-579/IP-Tracker.git
+cd IP-Tracker
+chmod +x install.sh
+./install.sh
+python ip-tracker
+```
