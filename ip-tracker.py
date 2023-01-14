@@ -7,9 +7,9 @@ from colorama import init, Fore
 import os
 
 try:
-    os.system('cls')
-except:
     os.system('clear')
+except:
+    os.system('cls')
 
 
 #colors
