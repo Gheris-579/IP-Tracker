@@ -17,5 +17,5 @@ git clone https://github.com/Gheris-579/IP-Tracker.git
 cd IP-Tracker
 chmod +x install.sh
 ./install.sh
-python3 ip-tracker
+python3 ip-tracker.py
 ```
