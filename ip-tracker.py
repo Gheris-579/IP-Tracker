@@ -6,10 +6,7 @@ import time
 from colorama import init, Fore
 import os
 
-try:
-    os.system('clear')
-except:
-    os.system('cls')
+os.system('cls' if os.name == 'nt' else 'clear')
 
 
 #colors
