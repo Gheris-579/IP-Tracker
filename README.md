@@ -1,4 +1,6 @@
-![MEDA WITH -GHERIS-](https://github.com/Gheris-579/RANSOMEWARE/assets/103877241/8680eb64-f902-496d-8d48-1b4239340c40) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+![IP--TRACKER-](https://github.com/Gheris-579/IP-Tracker/assets/103877241/5a94f00f-8a79-4906-8402-20c7342d8094)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+![MEDA WITH -GHERIS-](https://github.com/Gheris-579/RANSOMEWARE/assets/103877241/8680eb64-f902-496d-8d48-1b4239340c40)
 # IP-Tracker  
 Track any ip address with IP-Tracker. IP-Tracker is developed for Linux. you can retrieve any ip address information using IP-Tracker.
 <p>This program uses free API
