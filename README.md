@@ -1,5 +1,7 @@
 # IP-Tracker  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 Track any ip address with IP-Tracker. IP-Tracker is developed for Linux. you can retrieve any ip address information using IP-Tracker.
+<p>This program uses free API
+<br/>API NAME : IP Geolocation API<br/> API LINK : https://ip-api.com/</p>
 
 # What is IP-Tracker
 
